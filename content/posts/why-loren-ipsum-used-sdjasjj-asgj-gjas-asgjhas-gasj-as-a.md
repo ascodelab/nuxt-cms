@@ -51,6 +51,4 @@ Lorem Ipsum simply dummy text of the printing and typesetting industry. Lorem Ip
 
 <script src="https://gist.github.com/ascodelab/f5c8620b466bb8a777dc6b8f988eea05.js"></script>
 
-
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/y-3qZyE-v-s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""> </iframe>
