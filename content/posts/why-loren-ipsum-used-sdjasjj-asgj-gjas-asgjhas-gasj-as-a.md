@@ -37,14 +37,4 @@ Lorem Ipsum simply dummy text of the printing and typesetting industry. Lorem Ip
 2. sdgsdgsgdsh jsgj sjdgjsg gsdj gjjsgj jsgjsj sg
 3. sdhgjsgj sjgsjgjsgjsgjgsjsgjsgjgj
 
-`<!DOCTYPE html>`\
-`<html>`\
-`<title>HTML Tutorial</title>`\
-`<body>`\
-``\
-`<h1>This is a heading</h1>`\
-`<p>This is a paragraph.</p>`\``\
-`</body>`\
-`</html>`
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y-3qZyE-v-s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""> </iframe>
+<iframe width=“560” height=“315” src=“<https://www.youtube.com/embed/y-3qZyE-v-s>” frameborder=“0” allow=“accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture” allowfullscreen=""> </iframe>
