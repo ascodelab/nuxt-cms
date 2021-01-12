@@ -37,7 +37,6 @@ Lorem Ipsum simply dummy text of the printing and typesetting industry. Lorem Ip
 2. sdgsdgsgdsh jsgj sjdgjsg gsdj gjjsgj jsgjsj sg
 3. sdhgjsgj sjgsjgjsgjsgjgsjsgjsgjgj
 
-https://www.youtube.com/watch?v=E5Jg4Wm9b7o
-
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/E5Jg4Wm9b7o/0.jpg)](http://www.youtube.com/watch?v=E5Jg4Wm9b7oE "Video Title")
 
 
