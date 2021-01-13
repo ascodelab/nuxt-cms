@@ -14,6 +14,7 @@ featureImage: /uploads/about-hero.jpg
 <body>
 
 <h1>This is a heading</h1>
+  <h1>This is a heading</h1>
 <p>This is a paragraph.</p>
 
 </body>
@@ -38,5 +39,3 @@ Lorem Ipsum simply dummy text of the printing and typesetting industry. Lorem Ip
 3. sdhgjsgj sjgsjgjsgjsgjgsjsgjsgjgj
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/E5Jg4Wm9b7o/0.jpg)](http://www.youtube.com/watch?v=E5Jg4Wm9b7oE "Video Title")
-
-
